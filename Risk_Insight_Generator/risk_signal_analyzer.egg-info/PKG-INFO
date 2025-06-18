@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: risk-signal-analyzer
+Version: 0.1.0
+Summary: Tool for analyzing incident reports and system logs to extract risk signals
+Author: Your Name
+Requires-Python: >=3.7

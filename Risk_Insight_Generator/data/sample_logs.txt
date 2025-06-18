@@ -1,0 +1,8 @@
+[2025-06-17 18:00:30] ERROR: High latency detected in database queries
+[2025-06-17 17:45:15] WARNING: Network packet loss detected on interface eth0
+[2025-06-17 17:30:45] ERROR: Failed to establish database connection
+[2025-06-17 17:15:20] WARNING: Backup verification failed for data store 1
+[2025-06-17 17:00:55] ERROR: Authentication failure detected from IP 192.168.1.100
+[2025-06-17 16:45:30] ERROR: System crash due to memory exhaustion
+[2025-06-17 16:30:10] WARNING: CPU usage above 90% for 5 minutes
+[2025-06-17 16:15:45] ERROR: Disk space critical - less than 10% free
