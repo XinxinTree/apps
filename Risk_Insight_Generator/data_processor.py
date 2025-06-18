@@ -5,7 +5,10 @@ import os
 from typing import List, Dict, Any
 
 class DataProcessor:
-    def __init__(self, data_dir: str = "data"):
+    def __init__(self):
+        base_dir = os.path.dirname(__file__)
+        data_dir = os.path.join(base_dir, "data")
+
         self.data_dir = data_dir
         self.incidents = []
         self.logs = []
